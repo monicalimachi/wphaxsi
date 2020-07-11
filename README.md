@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://giphy.com/gifs/stardust-stardustae-classic-computers-4H3Ii5eLChYul9p7NL"></script>
+<img src="https://giphy.com/gifs/stardust-stardustae-classic-computers-4H3Ii5eLChYul9p7NL">
 
 <!--
 **wphaxsi/wphaxsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
