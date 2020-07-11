@@ -1,5 +1,5 @@
 ### Hi there 👋
-<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<img src="https://giphy.com/gifs/stardust-stardustae-classic-computers-4H3Ii5eLChYul9p7NL"></script>
 
 <!--
 **wphaxsi/wphaxsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
